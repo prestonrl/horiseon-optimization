@@ -23,3 +23,11 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+![image](https://user-images.githubusercontent.com/70044796/97820954-c9590700-1c6d-11eb-915b-4dbc876f3666.png)
+
+### Changes Made
+
+Standardized code to be more readable. Changed div elements to HTML5 elements for better accesiblilty. Corrected headings. Consolidated classes and css code.
+
+Final product link: https://prestonrl.github.io/horiseon-optimization/
